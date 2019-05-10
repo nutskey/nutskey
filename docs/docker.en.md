@@ -11,13 +11,13 @@ This guide describes how to install and setup Misskey with Docker.
 ----------------------------------------------------------------
 1. Clone Misskey repository's master branch.
 
-	`git clone -b master git://github.com/syuilo/misskey.git`
+	`git clone -b master git://github.com/nutskey/nutskey.git`
 
 2. Move to misskey directory.
 
 	`cd misskey`
 
-3. Checkout to the [latest release](https://github.com/syuilo/misskey/releases/latest) tag.
+3. Checkout to the [latest release](https://github.com/nutskey/nutskey/releases/latest) tag.
 
 	`git checkout master`
 

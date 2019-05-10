@@ -39,13 +39,13 @@ adduser --disabled-password --disabled-login misskey
 
 2. masterブランチからMisskeyレポジトリをクローン
 
-	`git clone -b master git://github.com/syuilo/misskey.git`
+	`git clone -b master git://github.com/nutskey/nutskey.git`
 
 3. misskeyディレクトリに移動
 
 	`cd misskey`
 
-4. [最新のリリース](https://github.com/syuilo/misskey/releases/latest)を確認
+4. [最新のリリース](https://github.com/nutskey/nutskey/releases/latest)を確認
 
 	`git checkout master`
 

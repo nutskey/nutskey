@@ -1,11 +1,11 @@
 {
 	"name": "misskey",
-	"author": "syuilo <i@syuilo.com>",
+	"author": "syuilo <i@syuilo.com>, tamaina <tamaina@hotmail.co.jp>",
 	"version": "11.11.2",
 	"codename": "daybreak",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/syuilo/misskey.git"
+		"url": "https://github.com/nutskey/nutskey.git"
 	},
 	"main": "./index.js",
 	"private": true,
